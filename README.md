@@ -1,6 +1,6 @@
 # Basic Program Mega Airport – Comprehensive Airport Management System in C#
 ## 1. Introduction
-   This project implements an object-oriented Airport Management System in C# (.NET 7), modeling real-world aviation entities—Airports, Terminals, Gates, Flights, Airlines, Aircraft, Crew, and Passengers. It provides core operations for registering terminals, scheduling and describing flights, and querying flight information by airline or gate.
+   This project implements an object-oriented Airport Management System in C# (.NET 7), modeling real-world aviation entities Airports, Terminals, Gates, Flights, Airlines, Aircraft, Crew, and Passengers. It provides core operations for registering terminals, scheduling and describing flights, and querying flight information by airline or gate.
 
 ## 2. Project Structure
 
@@ -14,7 +14,7 @@
 
   * **Add & List Terminals:** Extend an Airport with new Terminals and enumerate existing ones.
   * **Schedule Flights:** Create and assign Flight instances to specific Gates.
-  * **Describe Flights:** Print comprehensive flight details—including aircraft specs, crew list, and passenger count—via a console-based interface.
+  * **Describe Flights:** Print comprehensive flight details including aircraft specs, crew list, and passenger count via a console-based interface.
   * **Query by Airline:** Filter and display all flights operated by a given airline across every Gate.
 * **Utilities & Helpers:** Console I/O routines for reading user input, formatting output, and handling collections of objects.
 
